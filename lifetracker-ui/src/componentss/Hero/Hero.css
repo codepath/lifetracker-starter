@@ -1,0 +1,13 @@
+.lifetracker {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.watchimage {
+  height: 300px;
+  width: 300px;
+  border-radius: 25px;
+
+  box-shadow: 30px;
+}

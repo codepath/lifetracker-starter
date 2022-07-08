@@ -1,0 +1,15 @@
+.photos {
+  height: 300px;
+  width: 300px;
+  border-radius: 25px;
+}
+
+.grid {
+  margin: 100px;
+
+  display: flex;
+
+  flex-direction: row;
+
+  justify-content: space-evenly;
+}
