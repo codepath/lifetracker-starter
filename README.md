@@ -2,7 +2,7 @@
 
 # Week 3 Assignment: Life Tracker
 
-Submitted by: **NAME**
+Submitted by: **Abdul Rauf**
 
 Deployed Application: [Lifetracker Deployed Site](ADD_LINK_HERE)
 
