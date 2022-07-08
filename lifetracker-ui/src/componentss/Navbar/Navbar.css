@@ -1,0 +1,22 @@
+.navbar {
+  display: flex;
+
+  flex-direction: row;
+
+  list-style: none;
+
+  justify-content: space-evenly;
+
+  background-color: antiquewhite;
+
+  height: 90px;
+}
+
+.tag {
+  margin: 40px;
+}
+
+.image {
+  height: 50px;
+  margin: 20px;
+}
